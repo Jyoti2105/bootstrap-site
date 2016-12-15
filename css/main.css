@@ -1,0 +1,92 @@
+ @import 'https://fonts.googleapis.com/css?family=Caudex|Philosopher';
+
+body .jumbotron{
+	background-color: #00AD32;
+	
+}
+h1{
+	font: bold 4.136rem 'Caudex', 'Times New Roman', serif;
+	text-align: center;
+	color:#FFFDF7;
+	font-size:100px;
+}
+h2{
+		
+	font: bold 4.136rem 'Caudex', 'Times New Roman', serif;
+	background-color: #FFC9B3;
+	color: #573070;
+	text-align: center;
+	padding: 40px 40px 40px 40px;
+}
+h3{
+	font: bold 4.136rem 'Caudex', 'Times New Roman', serif;
+	background-color: #161FAB;
+	color: #FFFDF7;
+	text-align: center;
+	padding: 40px 40px 40px 40px;
+}
+p{
+	font-size: 1.50rem;
+    line-height: 1.6;
+    font-family: 'Philosopher', 'Arial', sans-serif;
+	word-wrap: break-word;
+}
+.contact us{
+	padding-bottom: 20px;
+	text-align: center;
+	
+}
+
+.card-text{
+	font-size: 1.50rem;
+    line-height: 1.6;
+    font-family: 'Philosopher', 'Arial', sans-serif;
+	word-wrap: break-word;
+	float:left;
+	
+}
+.card-title{
+	font: bold 2.136rem 'Caudex', 'Times New Roman', serif;
+	background-color: #90FF0B;
+	color: #FFFDF7;
+	text-align: center;
+}
+#contact_form{
+	padding-left:40px;
+}
+a{
+	font-family: 'Philosopher', 'Arial', sans-serif;
+	font-size:14px;
+}
+a.nav-link {
+    font-weight: bold;
+    font-size: 150%;
+	font-family: 'Philosopher', 'Arial', sans-serif;
+}
+#form.contactus{
+	width:50%;
+	float:left;
+}
+.map{
+	width:50%;
+	float:left;
+}
+nav{
+	font: normal 1.680 rem 'Philosopher', 'Arial', sans-serif;
+    
+}
+li.nav-item.active {
+    padding-left: 40px;
+}
+
+.btn btn-outline-success{
+	padding-top: 20px;
+}
+footer p.social img:hover{
+	background-color:#FF7C29;
+}
+footer{
+	clear: both;
+	float: left;
+}
+
